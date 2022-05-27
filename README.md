@@ -27,6 +27,7 @@ INSPECTIFY is a desktop app which upon receiving data via image
 ![Screenshot 2022-05-27 at 2 05 19 PM](https://user-images.githubusercontent.com/60481406/170664861-fe65c415-d8b2-45b9-8833-c8817c2f8bbd.png)
 ![Screenshot 2022-05-27 at 2 08 28 PM](https://user-images.githubusercontent.com/60481406/170665089-10a70f14-1351-49c5-a047-46c37374d69e.png)
 ![Screenshot 2022-05-27 at 2 09 25 PM](https://user-images.githubusercontent.com/60481406/170665421-208d0cdb-f62d-45cb-98f8-702ab90aecce.png)
+![Screenshot 2022-05-27 at 6 02 10 PM](https://user-images.githubusercontent.com/60481406/170699995-0fc437cb-96af-4265-bf72-690481aee232.png)
 ## Features
 - Register a new Criminal
     - At least five images of a criminal are required to train the model.
