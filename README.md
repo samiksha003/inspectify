@@ -51,7 +51,6 @@ Install my-project following these steps:
 ```bash
 - Clone my project
 - Run pip3 install -r requirements.txt (Python 3)
-- Make sure to change the address of folders in the code according your system
 - Open the inspectify directory
 - Run python3 home.py
 
