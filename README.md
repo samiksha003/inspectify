@@ -2,20 +2,19 @@
 ## Criminal-Identification-Using-Face-Recognition
 
 
-Problem Description: The security of India is becoming ever more
- critical in this new world. There is an expectation of a slew 
+Problem Description: The worls's security is becoming ever more
+ critical in this new era. There is an expectation of a banks 
  of organized crime activities that may attempt to cripple our 
- law enforcement and defense agencies. In such a scenario, 
- technology becomes of paramount importance.  
+ law enforcement and defence agencies. In such a scenario, 
+ technology becomes of uppermost importance.  
  
 
-INSPECTIFY is a desktop app which upon receiving data via image
- or video(live or recorded) identifies the criminal based on the
- criminal history of that person.
+INSPECTIFY is a desktop app that identifies the criminal based on the criminal history of that person upon receiving data via image or video(live or recorded). 
 
-## Usecases:
+
+## Use-cases:
 - Crowded places (railway or metro station, bus stand) where pickpocketers, kidnappers could be recognised as soon as they enter the field of camera.
-- Criminal could be identified on the entrance itself (of schools, colleges , banks and other social or private places).
+- Criminal could be identified on the gate itself (of schools, colleges , banks and other social or private places).
 - Upon identification it alerts us and shows up his/her criminal history.
 - Runaway criminals and a missing person could be caught.
 
@@ -24,9 +23,10 @@ INSPECTIFY is a desktop app which upon receiving data via image
 ## Demo
 
 ![Screenshot 2022-05-27 at 2 01 29 PM](https://user-images.githubusercontent.com/60481406/170664478-18361f61-3b33-4d46-b680-111e5f9f1617.png)
-![Screenshot 2022-05-27 at 2 05 19 PM](https://user-images.githubusercontent.com/60481406/170664861-fe65c415-d8b2-45b9-8833-c8817c2f8bbd.png)
+![Screenshot 2022-05-28 at 7 36 27 PM](https://user-images.githubusercontent.com/60481406/170828931-6aa80562-179c-4f28-87aa-21600064024a.png)
 ![Screenshot 2022-05-27 at 2 08 28 PM](https://user-images.githubusercontent.com/60481406/170665089-10a70f14-1351-49c5-a047-46c37374d69e.png)
-![Screenshot 2022-05-27 at 2 09 25 PM](https://user-images.githubusercontent.com/60481406/170665421-208d0cdb-f62d-45cb-98f8-702ab90aecce.png)
+https://user-images.githubusercontent.com/60481406/170829799-e98b0572-8e56-499f-8767-d71f4af9ba9b.mp4
+
 ![Screenshot 2022-05-27 at 6 02 10 PM](https://user-images.githubusercontent.com/60481406/170699995-0fc437cb-96af-4265-bf72-690481aee232.png)
 ## Features
 - Register a new Criminal
