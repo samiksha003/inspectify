@@ -25,6 +25,7 @@ INSPECTIFY is a desktop app that identifies the criminal based on the criminal h
 ![Screenshot 2022-05-27 at 2 01 29 PM](https://user-images.githubusercontent.com/60481406/170664478-18361f61-3b33-4d46-b680-111e5f9f1617.png)
 ![Screenshot 2022-05-28 at 7 36 27 PM](https://user-images.githubusercontent.com/60481406/170828931-6aa80562-179c-4f28-87aa-21600064024a.png)
 ![Screenshot 2022-05-27 at 2 08 28 PM](https://user-images.githubusercontent.com/60481406/170665089-10a70f14-1351-49c5-a047-46c37374d69e.png)
+https://user-images.githubusercontent.com/60481406/170829799-e98b0572-8e56-499f-8767-d71f4af9ba9b.mp4
 
 
 ![Screenshot 2022-05-27 at 6 02 10 PM](https://user-images.githubusercontent.com/60481406/170699995-0fc437cb-96af-4265-bf72-690481aee232.png)
